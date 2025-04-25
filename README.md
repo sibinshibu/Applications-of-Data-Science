@@ -1,2 +1,3 @@
 # Applications-of-Data-Science
-The repository contains the dataset to complete the lab work for Applications of Data Science Module
+This repository contains the dataset required to complete the lab work for the Applications of Data Science module in the MSc Data Science course at the University of Roehampton.
+All lab work should be completed using MATLAB code.
